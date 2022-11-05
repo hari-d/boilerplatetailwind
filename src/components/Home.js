@@ -3,7 +3,8 @@ import React from 'react';
 export default function Home() {
   return (
     <div>
-      home page
+      <p>Hii</p>
+      <h1>Heding</h1>
     </div>
-  )
+  );
 }
