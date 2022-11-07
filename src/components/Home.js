@@ -3,8 +3,7 @@ import React from 'react';
 export default function Home() {
   return (
     <div>
-      <p>Hii</p>
-      <h1>Heding</h1>
+      <p className="text-red-500">Home Page</p>
     </div>
   );
 }
